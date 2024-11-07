@@ -1,0 +1,23 @@
+{
+    "name": "Nathan Oliboni",
+    "email": "nathan.oliboni@gmail.com",
+    "cpf": "06613051128",
+    "creditCard": {
+        "number": "0000000000000000
+        "securityNumber": "000"
+    },
+    "products": [
+        {
+            "name": "Roteiro",
+            "value": "1000"
+        }
+    ],
+    "address": {
+        "zipCode": "85819355",
+        "street": "Rua Bela",
+        "number": "69",
+        "neighborhood": "Universitário",
+        "city": "Cascavel",
+        "state": "Paraná"
+    }
+}
